@@ -1,0 +1,16 @@
+arm_math.h:5745:30:arm_sqrt_f32	8	static
+fft.c:12:6:arm_max_f32	20	static
+fft.c:125:7:arm_cmplx_mag_f32	40	static
+fft.c:203:7:arm_bitreversal_f32	36	static
+fft.c:263:7:arm_radix8_butterfly_f32	216	static
+fft.c:505:7:arm_cfft_radix8by2_f32	40	static
+fft.c:616:7:arm_cfft_radix8by4_f32	112	static
+fft.c:856:7:arm_cfft_f32	24	static
+fft.c:911:7:arm_radix4_butterfly_inverse_q31	168	static
+fft.c:1498:7:arm_radix4_butterfly_q31	152	static
+fft.c:2103:7:arm_cfft_radix4_q31	16	static
+fft.c:2128:7:arm_cfft_radix4by2_q31	32	static
+fft.c:2188:8:arm_cfft_radix4by2_inverse_q31	48	static
+fft.c:2247:7:arm_cfft_q31	16	static
+fft.c:2318:7:arm_radix4_butterfly_f32	96	static
+fft.c:2822:7:arm_radix4_butterfly_inverse_f32	104	static

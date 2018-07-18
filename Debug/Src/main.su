@@ -1,0 +1,8 @@
+main.c:499:6:SystemClock_Config	96	static
+main.c:811:6:HAL_SPI_TxRxCpltCallback	0	static
+main.c:827:6:fft	1040	static
+main.c:923:8:sigmoid	8	static
+main.c:945:6:feedforward	72	static
+main.c:860:6:mfcc	928	static
+main.c:229:5:main	1136	dynamic
+main.c:1397:6:_Error_Handler	0	static

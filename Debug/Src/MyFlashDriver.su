@@ -1,0 +1,7 @@
+MyFlashDriver.c:61:15:VerifyFlashMemory	32	static
+MyFlashDriver.c:83:15:CheckIsWritingReadingComplete	48	static
+MyFlashDriver.c:116:6:Master_EraseFlash	56	static
+MyFlashDriver.c:158:6:Master_WriteToFlash_Page	2616	static
+MyFlashDriver.c:216:6:Master_ReadFromFlash	2096	static
+MyFlashDriver.c:300:9:Buffercmp	8	static
+MyFlashDriver.c:258:15:TestFlash	32	static

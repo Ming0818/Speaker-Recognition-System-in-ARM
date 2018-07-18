@@ -1,0 +1,11 @@
+stm32f4_discovery.c:159:10:BSP_GetVersion	0	static
+stm32f4_discovery.c:173:6:BSP_LED_Init	48	static
+stm32f4_discovery.c:200:6:BSP_LED_On	0	static
+stm32f4_discovery.c:214:6:BSP_LED_Off	0	static
+stm32f4_discovery.c:228:6:BSP_LED_Toggle	0	static
+stm32f4_discovery.c:251:6:BSP_PB_Init	32	static
+stm32f4_discovery.c:290:10:BSP_PB_GetState	8	static
+stm32f4_discovery.c:443:6:AUDIO_IO_Init	48	static
+stm32f4_discovery.c:475:6:AUDIO_IO_DeInit	0	static
+stm32f4_discovery.c:486:6:AUDIO_IO_Write	0	static
+stm32f4_discovery.c:497:9:AUDIO_IO_Read	0	static
